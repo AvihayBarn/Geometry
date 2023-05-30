@@ -1,4 +1,4 @@
-#include "pch.h"
+#include <algorithm>
 #include <iostream>
 #include <fstream>
 #include <random>
